@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Samuel Soliman
 
-<!--
-**SamuelSoliman/SamuelSoliman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Full Stack Developer based in Italy.
 
-Here are some ideas to get you started:
+I studied at **Fondazione ITS ICT Piemonte** where I specialized in software development and web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+
+- Laravel
+- Java
+- REST API development
+- Vue.js
+- MySQL
+- Git
+
+
+## Contact
+
+- LinkedIn https://www.linkedin.com/in/samuelsoliman
+- Email samuel.soliman.elguindy@gmail.com 
